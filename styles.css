@@ -96,3 +96,7 @@ header .search-bar-container label{
 header .search-bar-container label:hover{
     color: var(--orange);
 }
+
+body{
+    height: 200rem;
+}
